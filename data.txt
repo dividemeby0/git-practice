@@ -1,0 +1,3 @@
+Name : Camille
+Age : 25
+Favorite color : Red
